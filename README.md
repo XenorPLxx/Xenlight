@@ -1,5 +1,5 @@
 # Xenlight
-In ation: https://www.youtube.com/watch?v=SORMGCwLncw
+In action: https://www.youtube.com/watch?v=SORMGCwLncw
 
 Windows app: https://github.com/XenorPLxx/Xenlight
 
